@@ -1,2 +1,2 @@
 # live Hosted
-hosting is google firebase
+hosting in google firebase
